@@ -19,8 +19,9 @@ After that, double click on "CreatingPhoneWithOOP.sln" and the project will open
 
 Click on the highlighted place to launch the application.
 
+![applicationIniciatiozation](https://user-images.githubusercontent.com/66280255/188290814-8ad7451e-3f2a-4258-ad9c-ef41f0fc2a9d.png)
 
 
 Once started, the terminal with the application will open.
 
-
+![applicationTerminal](https://user-images.githubusercontent.com/66280255/188290818-85ca486b-ec75-4ca7-a9a7-7ff18aae6a3e.PNG)
